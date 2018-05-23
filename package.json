@@ -1,0 +1,19 @@
+{
+  "name": "utility.http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonny11/Utility.Http.git"
+  },
+  "author": "jeongsup.byun@gmil.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonny11/Utility.Http/issues"
+  },
+  "homepage": "https://github.com/Jonny11/Utility.Http#readme"
+}
