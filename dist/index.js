@@ -8,6 +8,7 @@ function failedResult(value, message) {
     return { success: false, response: value };
 }
 exports.failedResult = failedResult;
+/** Run callback if response is success, else return failed response as is */
 function ifSuccess(result, action) {
     return result.success ? action(result.response)
         :
