@@ -19,5 +19,8 @@
     "url": "https://github.com/Jonny11/Utility.Http/issues"
   },
   "homepage": "https://github.com/Jonny11/Utility.Http#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.1.4"
+  }
 }
